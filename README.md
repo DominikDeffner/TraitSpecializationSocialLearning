@@ -20,7 +20,7 @@ with  decreasing  levels  of  generalization and illustration of different modes
 
 - "SimulationCodeFixedComparison.r" contains code for comparisons between flexible and fixed specialist/generalist variants as well as analyses of different sources of innovation and fidelity of social learning 
 
-- "Fig4_AdaptPerTime" lets you reproduce Fig. 4, troportion of simulations that reach a given adaptation threshold
-conditional on the time since the last change in the environmen
+- "Fig4_AdaptPerTime" lets you reproduce Fig. 4, proportion of simulations that reach a given adaptation threshold
+conditional on the time since the last change in the environment
 
-- "Fig5_InnoSourceFidelity.r" contains code for Fig. 5, the comparison of adaptation dynamics for different sources of innovations and degrees of copying error
+- "Fig5_InnoSourceFidelity.r" contains code for Fig. 5, the comparison of adaptation dynamics for different sources of innovation and degrees of copying error
