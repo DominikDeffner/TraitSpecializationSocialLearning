@@ -1,1 +1,1 @@
-# TraitSpecializationSocialLearning
+# Trait Specialization and Social Learning
