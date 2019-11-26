@@ -2,8 +2,7 @@
 
 This repository contains the scripts to reproduce all results and plots in 
 
-***Deffner & Kandler (submitted):
-"TRAIT SPECIALIZATION, INNOVATION AND THE EVOLUTION OF CULTURE IN FLUCTUATING ENVIRONMENTS"***
+***Deffner, D., Kandler, A. Trait specialization, innovation, and the evolution of culture in fluctuating environments. Palgrave Commun 5, 147 (2019) doi:10.1057/s41599-019-0360-4***
 
 Description of files:
 
